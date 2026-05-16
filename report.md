@@ -1,7 +1,7 @@
 # Report: Zero-Shot vs One-Shot Prompting - Local LLM Chatbot for E-Commerce
 
-**Name:** Vamsi  
-**Date:** June 2025  
+**Name:** Harshitha  
+**Date:** May 2026  
 **Model Used:** Llama 3.2 3B (via Ollama)
 
 ---
